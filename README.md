@@ -2,7 +2,7 @@
 
 mongosh
 
-To create Codetribe database use the following command :
+**To create Codetribe database use the following command :**
 
 use Codetribe.
 
